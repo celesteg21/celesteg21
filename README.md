@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a **Data Analyst and Scientist** with a robust background in analyzing and extracting insights from complex datasets.
+
+![yop](https://github.com/celesteg21/celesteg21/assets/112521035/db0b9c13-d260-4a80-9fa9-afe029e9c948)
+
+I want to share with you all my projects, code, as well as the content I've studied, including examples.
+
+
+> To see my portfolio, click on the icon 📎.
 <!--
 **celesteg21/celesteg21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
