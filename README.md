@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I'm a **Data Analyst and Scientist** with a robust background in analyzing and extracting insights from complex datasets.
-
-![yop](https://github.com/celesteg21/celesteg21/assets/112521035/db0b9c13-d260-4a80-9fa9-afe029e9c948)
+<img width="1057" alt="Captura de Pantalla 2024-01-18 a la(s) 18 37 18" src="https://github.com/celesteg21/celesteg21/assets/112521035/9c21a623-125d-4a6b-8b48-3a64c876424f">
 
 I want to share with you all my projects, code, as well as the content I've studied, including examples.
 
