@@ -6,7 +6,7 @@ I'm a **Data Analyst and Scientist** with a robust background in analyzing and e
 I want to share with you all my projects, code, as well as the content I've studied, including examples.
 
 
-> To see my portfolio, click on the icon 📎.
+> To see my portfolio, click on the icon 📎(https://cegonzalez23.github.io/desarrollo_webV1/).
 <!--
 **celesteg21/celesteg21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
